@@ -136,11 +136,14 @@ _This process could be made easier by investing in more strongly typed APIs and 
 - **Beneficiary**: Spinnaker developers
 - **Area of Investment**: Tools
 - **Deliverables**:
-  - Development best practices documentation
+  - Develop best practices documentation
   - Storybook with interactive examples of reusable components
-  - Migration from Angular to React
+  - Track ongoing migration from Angular to React
   - Improvement of package/module/build system
-  - Avenue to showcase custom extensions of Deck
+  - Provide a community forum for UI-related feedback.
+    - Demo recent Deck features/fixes.
+    - Showcase Deck design proposals.
+    - Showcase community members’ custom extensions of Deck.
 
 ## Future Investment
 
